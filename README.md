@@ -1,4 +1,12 @@
 # GitHub Actions
 
-## About
-Repository for knowledge about GitHub Actions Pipeline 
+## Overview
+All Actions must reside in root directory 
+
+## Workflows
+``./github/workflows``
+
+## Jobs
+
+## Actions
+``./github/actions``
